@@ -1,0 +1,37 @@
+{
+  "title": "Consumer Profile Triplets Network",
+  "description": "3D visualization of consumer behavior relationships extracted from LEGO customer data",
+  "totalTriplets": 107781,
+  "visualizedRelationships": 36455,
+  "nodes": 5561,
+  "nodeTypes": [
+    "consumer",
+    "segment",
+    "attribute",
+    "country",
+    "region",
+    "category"
+  ],
+  "predicates": [
+    "hasSegment",
+    "hasAge",
+    "livesIn",
+    "belongsToRegion",
+    "hasLoyaltyScore",
+    "hasPriceSensitivity",
+    "purchasesWithFrequency",
+    "prefers",
+    "registeredIn",
+    "isClassifiedAs",
+    "hasSpendingCapacity",
+    "belongsToAgeGroup",
+    "hasAverageOrderValue",
+    "hasLifetimeValue",
+    "lastPurchasedOn",
+    "registeredOn"
+  ],
+  "generator": "Consumer Behavior Analysis Framework",
+  "created": "2025-05-30T10:01:07.034Z",
+  "format": "USD (Universal Scene Description)",
+  "software": "Compatible with USD-enabled 3D software (Blender, Maya, Houdini, etc.)"
+}
